@@ -1,5 +1,5 @@
-<h1 align="center">Hi there!👋</h1>
-<img src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif" alt="logo">
+<h1 align="center">Hi👋, I am Esha Bharti.</h1>
+<img src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif" alt="logo" width="500" height="300" >
 
 
 
